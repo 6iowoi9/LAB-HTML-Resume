@@ -1,0 +1,33 @@
+body {
+  background-color: blanchedalmond;
+}
+.headers {
+  font-style: italic;
+  font-size: larger;
+  font-weight: bolder;
+  padding-bottom: 30px;
+}
+#desc {
+  border-bottom: 3px solid;
+  padding-bottom: 10px;
+  font-style: italic;
+  margin-bottom: 20px;
+  color: cadetblue;
+  font-weight: 1002;
+}
+#desc2 {
+  border-bottom: 3px solid;
+  padding-bottom: 10px;
+  font-style: italic;
+  margin-bottom: 20px;
+  color: goldenrod;
+  font-weight: 222;
+}
+#desc3 {
+  border-bottom: 3px solid;
+  padding-bottom: 10px;
+  font-style: italic;
+  margin-bottom: 20px;
+  color: blueviolet;
+  font-weight: 300;
+}
